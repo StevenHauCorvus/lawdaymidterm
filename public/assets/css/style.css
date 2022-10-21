@@ -356,7 +356,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 8px;
-  background-color: #fff;
+  background-color: rgb(13, 13, 13);
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -371,7 +371,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #8fc04e;
+  color: #3279af;
 }
 
 .navbar-mobile .getstarted,
@@ -406,7 +406,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #8fc04e;
+  color: #3279af;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -971,7 +971,7 @@ section {
   bottom: -50px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: rgb(183, 91, 113);;
+  background: rgb(183, 91, 113);
   padding: 15px 20px;
 }
 
@@ -999,7 +999,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #d6e8bf;
+  color: rgb(218, 106, 132);
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -1036,11 +1036,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #8fc04e;
+  border: 1px solid rgb(183, 91, 113);
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #8fc04e;
+  background-color: rgb(183, 91, 113);
 }
 
 .portfolio-details .portfolio-info {
